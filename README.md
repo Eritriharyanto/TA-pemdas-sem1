@@ -1,3 +1,4 @@
+###pada file yang bernama teslagii.py
 kode ini adalah untuk menampilkan tabel mahasiswa atau tidak yang telah diisi
 kode adalah mencangkup definisi variabel, logika kondisional, logika perulangan, penggunaan fungsi, penggunaan data struktur
 1.definisi variabel: Variabel-variabel seperti tabel_mahasiswa, nama, npm, fakultas, prodi, dan kota_asal
@@ -47,6 +48,7 @@ dan kode ini akan menampilkan tabel mahasiswa jika memilih(ya) dan tidak menampi
     tampilkan_tabel()
 
 
+###pada file yang bernama kasir.py
 kode ini adalah untuk menampilkan struk pembelian yang telah di pilih 
 kode adalah mencangkup definisi variabel, logika kondisional, logika perulangan, penggunaan fungsi, penggunaan data struktur
 Definisi Variabel: Variabel-variabel seperti pembeli, toples, kuekering, totalkuekering, totalkuebasah, kuebasah, buah, totalsemua, uang, dan kembalian didefinisikan untuk menyimpan data dan hasil perhitungan dalam program.
